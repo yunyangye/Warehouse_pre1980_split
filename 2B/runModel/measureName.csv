@@ -1,0 +1,10 @@
+measure
+ChangeInsulationRValueForExteriorWalls
+ChangeInsulationRValueForRoofs
+ChangeUValueandSHGCOfWindows
+SetGasBurnerEfficiency
+ReplaceLightsInSpaceTypeWithLPD
+ChangeCOPforSingleSpeedDXCoolingUnits
+SetHeatingandCoolingSizingFactors
+ChangeFloortoFloorHeightWarehouse
+ChangeOutdoorAir
